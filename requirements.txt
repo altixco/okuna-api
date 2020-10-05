@@ -91,3 +91,4 @@ urlextract==0.14.0
 urllib3==1.25.9 ; python_version != '3.4'
 watchdog==0.10.2
 webpreview==1.6.0
+django-cors-headers==3.5.0
